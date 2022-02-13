@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 $ python manage.py migrate
 $ python manage.py runserver
 ```
-###NOTE to USE: source myenv/Scripts/activate instead on windows with bash.
+NOTE to USE: source myenv/Scripts/activate instead on windows with bash.
 
 ## Features & TODO
 - [x] Admin View
