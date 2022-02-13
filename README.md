@@ -5,14 +5,14 @@
 # Online Futsal Field Reservation System
 
 ## About This Project
-1st Project in Software Engineering major. UYI Futsal is our client, we build their Futsal Court booking system.
+An online python django based Futsal and other Indoor/outdoor games Court booking system.
 
 ## Getting Started
 ```bash
 $ git clone https://github.com/armohamm/fbs.git
 $ python -m venv myenv
 $ venv myvenv
-$ source myenv/bin/activate
+$ source myenv/Scripts/activate
 $ pip install -r requirements.txt
 $ python manage.py migrate
 $ python manage.py runserver
