@@ -12,11 +12,12 @@ An online python django based Futsal and other Indoor/outdoor games Court bookin
 $ git clone https://github.com/armohamm/fbs.git
 $ python -m venv myenv
 $ venv myvenv
-$ source myenv/Scripts/activate
+$ source myenv/bin/activate
 $ pip install -r requirements.txt
 $ python manage.py migrate
 $ python manage.py runserver
 ```
+###NOTE to USE: source myenv/Scripts/activate instead on windows with bash.
 
 ## Features & TODO
 - [x] Admin View
