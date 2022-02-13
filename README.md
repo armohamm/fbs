@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://i.ibb.co/yVPhMDk/LOGO-UYI.png" width="150">   
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="295">
 </p>
 
-# Sistem Reservasi Lapangan UYI Futsal
+# Online Futsal Field Reservation System
+
 ## About This Project
 1st Project in Software Engineering major. UYI Futsal is our client, we build their Futsal Court booking system.
 
 ## Getting Started
 ```bash
-$ git clone https://github.com/mushonnip/uyifutsal.git
+$ git clone https://github.com/armohamm/fbs.git
 $ python -m venv myenv
 $ venv myvenv
 $ source myenv/bin/activate
@@ -19,10 +19,10 @@ $ python manage.py runserver
 ```
 
 ## Features & TODO
-- [x] Tampilan admin
-- [x] CRUD Lapangan
+- [x] Admin View
+- [x] CRUD Field
 - [x] CRUD User
-- [x] CRUD Jadwal
+- [x] CRUD Schedules
 - [ ] Dashboard User
 
 ## Demo
